@@ -1,0 +1,9 @@
+# Fisiere generate de build.sh
+build/
+*.apk
+*.apk.idsig
+
+# Cheia de semnare: NU o pune in git. Fa-i backup separat,
+# altfel nu mai poti actualiza aplicatia fara s-o dezinstalezi.
+*.keystore
+*.jks
